@@ -1,0 +1,11 @@
+Token nasıl alınır:
+
+1- Tarayıcınızda discorda girin ve hesabınıza giriş yapın.
+2- Ctrl+Shift+I (Irmak kelimesinin I sı) tuşlarına aynı anda basın.
+3- "1 ve 2" isimli resimde gösterilen 1 nolu yere basın.
+3-  "1 ve 2" isimli resminde gösterilen 2 nolu yere basıp "application" a basın.
+4-  "2. görsel" adlı resimde gösterilen yere basın
+5-  "filter" adlı redimde gösterilen yere basın, token yazın ve enter tuşuna basın.
+6-  "token" isimli fotoğrafta gösterilen token yazısının karşısındaki şey sizin tokeninizdir. Çift tıklayıp ctrl+c yaparak kopyalayabilirsiniz.
+
+NOT: EĞER YAPAMAZSANIZ YOUTUBE'DA DETAYLI ANLATIMLARI VAR. YOUTUBE'A TOKEN NASIL BULUNUR VEYA ALINIR YAZARAK BULABİLİRSİNİZ.

@@ -1,0 +1,10 @@
+Çalıştırmadan önce :
+1- Corona.rar dosyasına sağ tıklayıp klasöre ayıkla deyin ve ayıkladığınız klasörden sonraki adımları yapın.
+2- PythonInstaller dosyasına tıklayın ve alttan "Add Python 3.10 to Path" yazısının solundaki işareti tikleyip kurulumu başlatın.
+3- Kurulum bittikten sonra Corona.py dosyasına çift tıklayarak başlatabilirsiniz fakat en garanti yöntemi yapmak için:
+ Üstteki dosya yoluna (örnek: C:\Users\kullanıcı\OneDrive\Masaüstü\belgeler) çift tıklayıp hepsini silin. 
+ Sildiğiniz yere cmd yazıp enter basın.
+ Ve cmd ye şu komudu yazın: python corona.py
+
+Ve artık sizden istedikleri boşlukları doldurarak programı başlatabilirsiniz!
+
