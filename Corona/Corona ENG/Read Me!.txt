@@ -1,0 +1,9 @@
+Before running:
+1- Right click on the Corona.rar file and say extract to folder and do the next steps from the extracted folder.
+2- Click on the PythonInstaller file and click the sign to the left of "Add Python 3.10 to Path" from the bottom and start the installation.
+3- After the installation is finished, you can start it by double-clicking on the Corona.py file, but to make it the safest method:
+  Double click the file path at the top (example: C:\Users\user\OneDrive\Desktop\documents) and delete them all.
+  Type cmd where you deleted it and press enter.
+  And type the following command in cmd: python corona.py
+
+And now you can start the program by filling in the blanks they want from you!

@@ -1,0 +1,5 @@
+English:
+Corona ENG file is supported in English, Corona TR file is in Turkish.
+
+Turkish:
+Corona ENG dosyası ingilizce, Corona TR dosyası türkçe dil desteklidir.
